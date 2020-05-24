@@ -1,0 +1,9 @@
+[[source]]
+url = "https://pypi.doubanio.com/simple"
+name = "pypi"
+
+[packages]
+numpy = "*"
+
+[requires]
+python_version = "3.6"
